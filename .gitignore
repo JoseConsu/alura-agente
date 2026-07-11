@@ -1,0 +1,10 @@
+.env
+faiss_index/
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+CLAUDE.md
+.claude/
