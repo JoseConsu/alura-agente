@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-community
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+pandas
+duckduckgo-search
