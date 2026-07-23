@@ -11,4 +11,3 @@ sentence-transformers
 faiss-cpu
 pypdf
 pandas
-duckduckgo-search
